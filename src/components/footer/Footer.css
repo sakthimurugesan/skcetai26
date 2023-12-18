@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
   }
   
   .footer {
@@ -9,7 +10,8 @@
     width: 100%;
     bottom: 100;
     left: 0;
-    background-color: #343a40;
+    background-color: #343a40; 
+    margin-bottom: -31px !important;
     color: white;
   }
   
