@@ -1,0 +1,46 @@
+.birthday-div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    background-color: red;
+    padding: 15px;
+    flex-direction: column;
+    height: auto;
+
+}
+.birthday-card-outer
+{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    row-gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.birthday-card{
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+    background-color: green;
+    padding: 10px;
+
+}
+.birthday-card img
+{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.birthday-card h3
+{
+    margin-top: 10px;
+}
