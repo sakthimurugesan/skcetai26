@@ -6,7 +6,7 @@ import birthdayData from './birthday.json';
 
 export default function HomePage() {
     const [birthdayData1, setBirthdayData] = useState([]);
-
+ 
     useEffect(() => {
 
       const today = new Date();
