@@ -22,19 +22,19 @@ export default function HomePage() {
                     <h1>Birthday !!</h1>
                     <div className="birthday-card-outer">
                         <div className="birthday-card">
-                            <img src="/video/727722euai050.jpg"></img>
+                            <img src="https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg"></img>
                             <h3>Happy Birthday Ranga</h3>
                         </div>
                         <div className="birthday-card">
-                            <img src="/video/727722euai050.jpg"></img>
+                            <img src="https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg"></img>
                             <h3>Happy Birthday Ranga</h3>
                         </div>
                         <div className="birthday-card">
-                            <img src="/video/727722euai050.jpg"></img>
+                            <img src="https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg"></img>
                             <h3>Happy Birthday Ranga</h3>
                         </div>
                         <div className="birthday-card">
-                            <img src="/video/727722euai050.jpg"></img>
+                            <img src="https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg"></img>
                             <h3>Happy Birthday Ranga</h3>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ export default function HomePage() {
                     <h1>Events</h1>
                     <div className='event-card-outer'>
                         <div className='event-card'>
-                            <img src='/video/727722euai050.jpg'></img>
+                            <img src='https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg'></img>
                             <div className='event-detail-div'>
                                 <h3>Event Name</h3>
                                 <h3>Event Date</h3>
@@ -53,7 +53,7 @@ export default function HomePage() {
                             </div>
                         </div>
                         <div className='event-card'>
-                            <img src='/video/727722euai050.jpg'></img>
+                            <img src='https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg'></img>
                             <div className='event-detail-div'>
                                 <h3>Event Name</h3>
                                 <h3>Event Date</h3>
@@ -61,7 +61,7 @@ export default function HomePage() {
                             </div>
                         </div>
                         <div className='event-card'>
-                            <img src='/video/727722euai050.jpg'></img>
+                            <img src='https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg'></img>
                             <div className='event-detail-div'>
                                 <h3>Event Name</h3>
                                 <h3>Event Date</h3>
@@ -69,7 +69,7 @@ export default function HomePage() {
                             </div>
                         </div>
                         <div className='event-card'>
-                            <img src='/video/727722euai050.jpg'></img>
+                            <img src='https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg'></img>
                             <div className='event-detail-div'>
 
                                 <h3>More Events ...</h3>
@@ -84,7 +84,7 @@ export default function HomePage() {
                     <h1>Student Activities</h1>
                     <div className='activities-card-outer'>
                         <div className='activities-card'>
-                            <img src='/video/727722euai050.jpg'></img>
+                            <img src='https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg'></img>
                             <div className='activities-detail-div'>
                                 <h3>Event Name</h3>
                                 <h3>Event Date</h3>
@@ -92,7 +92,7 @@ export default function HomePage() {
                             </div>
                         </div>
                         <div className='activities-card'>
-                            <img src='/video/727722euai050.jpg'></img>
+                            <img src='https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg'></img>
                             <div className='activities-detail-div'>
                                 <h3>Event Name</h3>
                                 <h3>Event Date</h3>
@@ -100,7 +100,7 @@ export default function HomePage() {
                             </div>
                         </div>
                         <div className='activities-card'>
-                            <img src='/video/727722euai050.jpg'></img>
+                            <img src='https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg'></img>
                             <div className='activities-detail-div'>
                                 <h3>Event Name</h3>
                                 <h3>Event Date</h3>
@@ -108,7 +108,7 @@ export default function HomePage() {
                             </div>
                         </div>
                         <div className='event-card'>
-                            <img src='/video/727722euai050.jpg'></img>
+                            <img src='https://res.cloudinary.com/dfiyrqut1/image/upload/v1702896336/727722EUAI050_rmoini.jpg'></img>
                             <div className='event-detail-div'>
 
                                 <h3>More Events ...</h3>
