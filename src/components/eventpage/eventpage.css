@@ -11,7 +11,7 @@
 .event-div
 {
     width: 85%;
-    background-color: red;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,7 +34,7 @@
 {
     width: 300px;
     height: 380px;
-    background-color: green;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -53,4 +53,6 @@
 {
     margin-top: 10px;
     margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
 }

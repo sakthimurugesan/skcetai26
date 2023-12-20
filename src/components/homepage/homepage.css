@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     width: 85%;
-    background-color: red;
+    
     padding: 15px;
     flex-direction: column;
     height: auto;
@@ -30,7 +30,7 @@
     align-items: center;
     flex-direction: column;
     height: auto;
-    background-color: green;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 10px;
 
 }
