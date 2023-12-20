@@ -18,7 +18,7 @@ export default function Gallery() {
        
          {temp.map((i)=>(
           
-        <img src={i.image} alt="Hi" style={{height:"300px", width:"450px"}}></img>
+        <img src={i.image} alt="Hi" style={{height:"300px", width:"420px"}}></img>
         
          ))}
         </div>
