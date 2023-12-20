@@ -41,7 +41,7 @@ export default function Footer() {
                         <h4>Quick links</h4>
                         <p><a href="/">Home</a></p>
                         <p><a href="/events">Events</a></p>
-                        <p><a href="/activity">Activity</a></p>
+                        <p><a href="/activities">Student Activities</a></p>
                         <p><a href="/gallery">Gallery</a></p>
                     </div>
                     <div class="details">

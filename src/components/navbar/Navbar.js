@@ -8,7 +8,7 @@ export default function Navbar() {
             <div class="container">
                <input type="checkbox" name="check" id="check" />
                <div class="logo-container">
-                  <h3 class="logo">SKCETAI26</h3>
+                 <a href='/' className='logo-link'> <h3 class="logo">SKCETAI26</h3></a>
                </div>
                <div class="nav-btn">
                   <div class="nav-links">
