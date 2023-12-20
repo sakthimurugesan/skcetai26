@@ -3,25 +3,26 @@ import Footer from "../footer/Footer";
 import './gallery.css'
 import data from './gallery.json'
 export default function Gallery() {
+  const temp=[...data].reverse()
   return (
     <>
       <Navbar />
-      <div >
+
         <div style={{
           display: "flex",
           flexWrap: "wrap",
-          marginTop: "50px",
-          marginBottom: "50px"
-        }} class="parent-container">
+          margin: "25px",
+          columnGap:"15px",
+          rowGap:"15px"
+        }} >
        
-         {data.map((i)=>(
-           <div class="child-container">
-
-           <img src={i.image} />
-         </div>
+         {temp.map((i)=>(
+          
+        <img src={i.image} alt="Hi" style={{height:"300px", width:"450px"}}></img>
+        
          ))}
         </div>
-      </div>
+  
 
       <Footer />
     </>
