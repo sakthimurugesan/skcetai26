@@ -50,7 +50,7 @@ const lastActs = act.slice(-3).reverse();
                                 <div className="birthday-card-outer">
                                 {birthdayData1.map((person, index) => (
               <div className="birthday-card" key={index}>
-              <img src="a.png"></img>
+              <img src={person.url}></img>
               <h3>Happy Birthday</h3>
               <h3> {person.Name}</h3>
           </div>
